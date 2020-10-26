@@ -1,0 +1,16 @@
+{
+  "name": "hangman",
+  "version": "1.0.0",
+  "engine": {
+    "node": "14.10.1"
+  },
+  "main": "index.js",
+  "author": "Sean Russell",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TurbulentRice/hangman.git"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
