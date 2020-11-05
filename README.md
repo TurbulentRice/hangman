@@ -2,7 +2,7 @@
 
 ## Hangman guessing game written in JavaScript.
 
-![Hangman game screenshot](hangman-screen.jpg)
+![Hangman game screenshot](hangman_screen.jpg)
 
 ### Coding features:
 
